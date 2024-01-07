@@ -37,7 +37,7 @@ function Bubble_sort() {
           className="input"
           type="text"
           onInput={inputHandler}
-          placeholder="enter numbers, eg 3,4,75,9.2"
+          placeholder="enter numbers, eg 3, 4, 75, 9.2"
         />
         <button className="submit" onClick={sort}>
           Sort

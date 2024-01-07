@@ -74,7 +74,9 @@ p {
     color: #D06079;
   }
 }
-
+.input {
+  width: 450px;
+}
 .input,
 .submit {
     display: inline-block;
